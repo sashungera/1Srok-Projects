@@ -26,8 +26,7 @@ The ESP32 receives audio from a phone via Bluetooth and plays it through externa
 
 /src      → Project source code  
 /docs     → Documentation  
-/images   → Pictures  
-README.md → Project description  
+/lib      → Needed lybraries 
 
 ## 🎯 Goal
 
